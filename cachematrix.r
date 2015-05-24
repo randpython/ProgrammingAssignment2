@@ -1,3 +1,4 @@
+# Upadting this version to show various commits to this file
 #makeCacheMatrix and cacheSolve functions show lexical scoping functionality
 #makeCacheMatrix functions caches the matrix inverse
 #cacheSolve matrix calculates the inverse using solve function
